@@ -1,0 +1,244 @@
+{
+  "tablets/huawei/matepad-pro": {
+    "brand": "Huawei",
+    "model": "MATEPAD PRO",
+    "storage": "128GB",
+    "slug": "tablets-huawei-matepad-pro",
+    "source_slug": "huawei/matepad-pro",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "Handtec",
+        "price": 1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:17.835Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 1,
+        "condition": "Broken",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:17.835Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:17.835Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 1,
+        "condition": "Broken",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:17.835Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:17.835Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 1,
+        "condition": "Broken",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:17.835Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:17.835Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 1,
+        "condition": "Broken",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:17.835Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:17.835Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 1,
+        "condition": "Broken",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:17.835Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:17.835Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 1,
+        "condition": "Broken",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:17.835Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:17.835Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 1,
+        "condition": "Broken",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:17.835Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:17.835Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:17.835Z"
+      }
+    ]
+  },
+  "tablets/huawei/mediapad-m3-lite-8": {
+    "brand": "Huawei",
+    "model": "MEDIAPAD M3 LITE 8",
+    "storage": "32GB",
+    "slug": "tablets-huawei-mediapad-m3-lite-8",
+    "source_slug": "huawei/mediapad-m3-lite-8",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 8,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:18.500Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:18.500Z"
+      }
+    ]
+  },
+  "tablets/huawei/mediapad-m5-lite-8": {
+    "brand": "Huawei",
+    "model": "MEDIAPAD M5 LITE 8",
+    "storage": "32GB",
+    "slug": "tablets-huawei-mediapad-m5-lite-8",
+    "source_slug": "huawei/mediapad-m5-lite-8",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 13,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:19.096Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:19.096Z"
+      }
+    ]
+  },
+  "tablets/huawei/mediapad-t3-10": {
+    "brand": "Huawei",
+    "model": "MEDIAPAD T3 10",
+    "storage": "16GB",
+    "slug": "tablets-huawei-mediapad-t3-10",
+    "source_slug": "huawei/mediapad-t3-10",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:19.835Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:19.835Z"
+      }
+    ]
+  },
+  "tablets/huawei/mediapad-t5": {
+    "brand": "Huawei",
+    "model": "MEDIAPAD T5",
+    "storage": "32GB",
+    "slug": "tablets-huawei-mediapad-t5",
+    "source_slug": "huawei/mediapad-t5",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 11.5,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:20.634Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:20.634Z"
+      }
+    ]
+  }
+}

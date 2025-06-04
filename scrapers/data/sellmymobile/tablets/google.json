@@ -1,0 +1,28 @@
+{
+  "tablets/google/pixel-slate-tablet": {
+    "brand": "Google",
+    "model": "PIXEL SLATE TABLET",
+    "storage": "256GB",
+    "slug": "tablets-google-pixel-slate-tablet",
+    "source_slug": "google/pixel-slate-tablet",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 9,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:21.815Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:21.815Z"
+      }
+    ]
+  }
+}

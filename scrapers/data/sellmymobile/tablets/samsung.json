@@ -1,0 +1,2506 @@
+{
+  "tablets/samsung/galaxy-tab-a-10-1-2019-wifi": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB A 10 1 2019 WIFI",
+    "storage": "32GB",
+    "slug": "tablets-samsung-galaxy-tab-a-10-1-2019-wifi",
+    "source_slug": "samsung/galaxy-tab-a-10-1-2019-wifi",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 9,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:40.925Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:40.925Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-a-10-1-wifi-and-data": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB A 10 1 WIFI AND DATA",
+    "storage": "16GB",
+    "slug": "tablets-samsung-galaxy-tab-a-10-1-wifi-and-data",
+    "source_slug": "samsung/galaxy-tab-a-10-1-wifi-and-data",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "Handtec",
+        "price": 15,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:41.542Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 15,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:41.542Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 15,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:41.542Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 15,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:41.542Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 15,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:41.542Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 15,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:41.542Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 15,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:41.542Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-a-10-5-wifi": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB A 10 5 WIFI",
+    "storage": "32GB",
+    "slug": "tablets-samsung-galaxy-tab-a-10-5-wifi",
+    "source_slug": "samsung/galaxy-tab-a-10-5-wifi",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "I Need A Mobile",
+        "price": 23,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.155Z"
+      },
+      {
+        "merchant": "I Need A Mobile",
+        "price": 23,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.155Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.155Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.155Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-a-10-5-wifi-and-data": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB A 10 5 WIFI AND DATA",
+    "storage": "32GB",
+    "slug": "tablets-samsung-galaxy-tab-a-10-5-wifi-and-data",
+    "source_slug": "samsung/galaxy-tab-a-10-5-wifi-and-data",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.791Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.791Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.791Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.791Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.791Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.791Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.791Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.791Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.791Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.791Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.791Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.791Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Orange",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.791Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Orange",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.791Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Tmobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.791Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tmobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.791Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.791Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.791Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.791Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:42.791Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-active-2-wifi-and-data": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB ACTIVE 2 WIFI AND DATA",
+    "storage": "16GB",
+    "slug": "tablets-samsung-galaxy-tab-active-2-wifi-and-data",
+    "source_slug": "samsung/galaxy-tab-active-2-wifi-and-data",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:43.392Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:43.393Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:43.393Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:43.393Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:43.393Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:43.393Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:43.393Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:43.393Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:43.393Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:43.393Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:43.393Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:43.393Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:43.393Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:43.393Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:43.393Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:43.393Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-active-wifi-and-data": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB ACTIVE WIFI AND DATA",
+    "storage": "16GB",
+    "slug": "tablets-samsung-galaxy-tab-active-wifi-and-data",
+    "source_slug": "samsung/galaxy-tab-active-wifi-and-data",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "Handtec",
+        "price": 1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:02.765Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-s-10-5-wifi": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB S 10 5 WIFI",
+    "storage": "16GB",
+    "slug": "tablets-samsung-galaxy-tab-s-10-5-wifi",
+    "source_slug": "samsung/galaxy-tab-s-10-5-wifi",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.393Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.393Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-s-10-5-wifi-and-data": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB S 10 5 WIFI AND DATA",
+    "storage": "16GB",
+    "slug": "tablets-samsung-galaxy-tab-s-10-5-wifi-and-data",
+    "source_slug": "samsung/galaxy-tab-s-10-5-wifi-and-data",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.976Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.976Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.976Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.976Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.976Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.976Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.976Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.976Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.976Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.976Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.976Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.976Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Orange",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.976Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Orange",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.976Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Tmobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.976Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tmobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.976Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.976Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.976Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.976Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:03.976Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-s-8-4-wifi": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB S 8 4 WIFI",
+    "storage": "16GB",
+    "slug": "tablets-samsung-galaxy-tab-s-8-4-wifi",
+    "source_slug": "samsung/galaxy-tab-s-8-4-wifi",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:04.580Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:04.580Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-s-8-4-wifi-and-data": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB S 8 4 WIFI AND DATA",
+    "storage": "16GB",
+    "slug": "tablets-samsung-galaxy-tab-s-8-4-wifi-and-data",
+    "source_slug": "samsung/galaxy-tab-s-8-4-wifi-and-data",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Orange",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.215Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Orange",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.215Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Tmobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.215Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tmobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.215Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.215Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.215Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.215Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.215Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.215Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.215Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.215Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.215Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.215Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.215Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.215Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.215Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.215Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.215Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.215Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.215Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-s2-8-0-wifi": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB S2 8 0 WIFI",
+    "storage": "32GB",
+    "slug": "tablets-samsung-galaxy-tab-s2-8-0-wifi",
+    "source_slug": "samsung/galaxy-tab-s2-8-0-wifi",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.839Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:05.839Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-s2-8-0-wifi-and-data": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB S2 8 0 WIFI AND DATA",
+    "storage": "32GB",
+    "slug": "tablets-samsung-galaxy-tab-s2-8-0-wifi-and-data",
+    "source_slug": "samsung/galaxy-tab-s2-8-0-wifi-and-data",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:06.558Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:06.558Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:06.558Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:06.558Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:06.558Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:06.558Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:06.558Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:06.558Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:06.558Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:06.558Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:06.558Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:06.558Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:06.558Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:06.558Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:06.558Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:06.558Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-s2-9-7-wifi": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB S2 9 7 WIFI",
+    "storage": "32GB",
+    "slug": "tablets-samsung-galaxy-tab-s2-9-7-wifi",
+    "source_slug": "samsung/galaxy-tab-s2-9-7-wifi",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.176Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.176Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-s2-9-7-wifi-and-data": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB S2 9 7 WIFI AND DATA",
+    "storage": "32GB",
+    "slug": "tablets-samsung-galaxy-tab-s2-9-7-wifi-and-data",
+    "source_slug": "samsung/galaxy-tab-s2-9-7-wifi-and-data",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.858Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.858Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.858Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.858Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.858Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.858Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.858Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.858Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Orange",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.858Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Orange",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.858Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Tmobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.858Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tmobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.858Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.859Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.859Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.859Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.859Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.859Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.859Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 4.5,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.859Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:07.859Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-s3-9-7-wifi-and-data": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB S3 9 7 WIFI AND DATA",
+    "storage": "32GB",
+    "slug": "tablets-samsung-galaxy-tab-s3-9-7-wifi-and-data",
+    "source_slug": "samsung/galaxy-tab-s3-9-7-wifi-and-data",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 9,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:08.464Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:08.464Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 9,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:08.464Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:08.464Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 9,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:08.464Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:08.464Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 9,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:08.464Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:08.464Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 9,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:08.464Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:08.464Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 9,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:08.464Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:08.464Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 9,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:08.464Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:08.464Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 9,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:08.464Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:08.464Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-s4-10-5-wifi": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB S4 10 5 WIFI",
+    "storage": "64GB",
+    "slug": "tablets-samsung-galaxy-tab-s4-10-5-wifi",
+    "source_slug": "samsung/galaxy-tab-s4-10-5-wifi",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "Mazuma",
+        "price": 60,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.157Z"
+      },
+      {
+        "merchant": "Mazuma",
+        "price": 60,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.157Z"
+      },
+      {
+        "merchant": "Mazuma",
+        "price": 10,
+        "condition": "Broken",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.157Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.157Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.157Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-s4-10-5-wifi-and-data": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB S4 10 5 WIFI AND DATA",
+    "storage": "64GB",
+    "slug": "tablets-samsung-galaxy-tab-s4-10-5-wifi-and-data",
+    "source_slug": "samsung/galaxy-tab-s4-10-5-wifi-and-data",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "Handtec",
+        "price": 60,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 60,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 60,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 60,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 60,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 60,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 60,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Orange",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Orange",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Tmobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tmobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:09.878Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-s5e-wifi": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB S5E WIFI",
+    "storage": "64GB",
+    "slug": "tablets-samsung-galaxy-tab-s5e-wifi",
+    "source_slug": "samsung/galaxy-tab-s5e-wifi",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:10.440Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:10.440Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-s5e-wifi-and-data": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB S5E WIFI AND DATA",
+    "storage": "64GB",
+    "slug": "tablets-samsung-galaxy-tab-s5e-wifi-and-data",
+    "source_slug": "samsung/galaxy-tab-s5e-wifi-and-data",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.091Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.091Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.091Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.091Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.091Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.091Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.091Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.091Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.091Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.091Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.091Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.091Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.091Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.091Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Orange",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.091Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Orange",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.091Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Tmobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.091Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tmobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.091Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.091Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.091Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-s6-lite-wifi": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB S6 LITE WIFI",
+    "storage": "64GB",
+    "slug": "tablets-samsung-galaxy-tab-s6-lite-wifi",
+    "source_slug": "samsung/galaxy-tab-s6-lite-wifi",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "Handtec",
+        "price": 40,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.705Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 40,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.705Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 36,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.705Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:11.705Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-s6-lite-wifi-and-data": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB S6 LITE WIFI AND DATA 64GB",
+    "storage": "64GB",
+    "slug": "tablets-samsung-galaxy-tab-s6-lite-wifi-and-data",
+    "source_slug": "samsung/galaxy-tab-s6-lite-wifi-and-data",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:12.386Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:12.386Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:12.386Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:12.386Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:12.386Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:12.386Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:12.386Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:12.386Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:12.386Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:12.386Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:12.386Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:12.386Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:12.386Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:12.386Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 45,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:12.386Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:12.386Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-s6-wifi": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB S6 WIFI",
+    "storage": "128GB",
+    "slug": "tablets-samsung-galaxy-tab-s6-wifi",
+    "source_slug": "samsung/galaxy-tab-s6-wifi",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "Mazuma",
+        "price": 90,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:13.089Z"
+      },
+      {
+        "merchant": "Mazuma",
+        "price": 90,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:13.089Z"
+      },
+      {
+        "merchant": "Mazuma",
+        "price": 10,
+        "condition": "Broken",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:13.089Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 54,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:13.089Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:13.089Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-s6-wifi-and-data": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB S6 WIFI AND DATA",
+    "storage": "128GB",
+    "slug": "tablets-samsung-galaxy-tab-s6-wifi-and-data",
+    "source_slug": "samsung/galaxy-tab-s6-wifi-and-data",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 54,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:13.698Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:13.698Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-s7-plus-wifi": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB S7 PLUS WIFI",
+    "storage": "128GB",
+    "slug": "tablets-samsung-galaxy-tab-s7-plus-wifi",
+    "source_slug": "samsung/galaxy-tab-s7-plus-wifi",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "Handtec",
+        "price": 100,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:14.321Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 100,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:14.321Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 6,
+        "condition": "Broken",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:14.321Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 45,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:14.321Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:14.321Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-s7-plus-wifi-and-data": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB S7 PLUS WIFI AND DATA 128GB",
+    "storage": "128GB",
+    "slug": "tablets-samsung-galaxy-tab-s7-plus-wifi-and-data",
+    "source_slug": "samsung/galaxy-tab-s7-plus-wifi-and-data",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "Handtec",
+        "price": 10,
+        "condition": "Broken",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:14.933Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 10,
+        "condition": "Broken",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:14.933Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 10,
+        "condition": "Broken",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:14.933Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 10,
+        "condition": "Broken",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:14.933Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 10,
+        "condition": "Broken",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:14.933Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 10,
+        "condition": "Broken",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:14.933Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 10,
+        "condition": "Broken",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:14.933Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 45,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:14.933Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:14.933Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-s7-wifi": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB S7 WIFI",
+    "storage": "128GB",
+    "slug": "tablets-samsung-galaxy-tab-s7-wifi",
+    "source_slug": "samsung/galaxy-tab-s7-wifi",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "Handtec",
+        "price": 70,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:15.616Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 70,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:15.616Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 3,
+        "condition": "Broken",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:15.616Z"
+      },
+      {
+        "merchant": "Mazuma",
+        "price": 170,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:15.616Z"
+      },
+      {
+        "merchant": "Mazuma",
+        "price": 170,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:15.616Z"
+      },
+      {
+        "merchant": "Mazuma",
+        "price": 20,
+        "condition": "Broken",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:15.616Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 45,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:15.616Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:15.616Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-tab-s7-wifi-and-data": {
+    "brand": "Samsung",
+    "model": "GALAXY TAB S7 WIFI AND DATA 128GB",
+    "storage": "128GB",
+    "slug": "tablets-samsung-galaxy-tab-s7-wifi-and-data",
+    "source_slug": "samsung/galaxy-tab-s7-wifi-and-data",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "Handtec",
+        "price": 80,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.214Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 80,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.214Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 80,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.214Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 80,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.214Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 80,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.214Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 80,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.214Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 80,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.214Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 80,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.214Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 80,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.214Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 80,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.214Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 80,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.214Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 80,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.214Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 80,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.214Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 80,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.214Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 45,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.214Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.214Z"
+      }
+    ]
+  },
+  "tablets/samsung/galaxy-view-18-4-wifi": {
+    "brand": "Samsung",
+    "model": "GALAXY VIEW 18 4 WIFI",
+    "storage": "32GB",
+    "slug": "tablets-samsung-galaxy-view-18-4-wifi",
+    "source_slug": "samsung/galaxy-view-18-4-wifi",
+    "type": "tablet",
+    "offers": [
+      {
+        "merchant": "Handtec",
+        "price": 200,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.841Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 200,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.841Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 200,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.841Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 200,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.841Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 200,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.841Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 200,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.841Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 200,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.841Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 45,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.841Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:43:16.841Z"
+      }
+    ]
+  }
+}

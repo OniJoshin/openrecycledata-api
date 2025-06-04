@@ -1,0 +1,3362 @@
+{
+  "phones/oneplus/5": {
+    "brand": "Oneplus",
+    "model": "5",
+    "storage": "64GB",
+    "slug": "phones-oneplus-5",
+    "source_slug": "oneplus/5",
+    "type": "phone",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 18.5,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:06.402Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:06.402Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 6.5,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:06.402Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:06.402Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 6.5,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:06.402Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:06.402Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 6.5,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:06.402Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:06.402Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 6.5,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:06.402Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:06.402Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:06.402Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 6.5,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:06.402Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 6.5,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:06.402Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:06.402Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 6.5,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:06.402Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:06.402Z"
+      }
+    ]
+  },
+  "phones/oneplus/3t": {
+    "brand": "Oneplus",
+    "model": "3T",
+    "storage": "64GB",
+    "slug": "phones-oneplus-3t",
+    "source_slug": "oneplus/3t",
+    "type": "phone",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 6.5,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.053Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.053Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 6.5,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.053Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.053Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 6.5,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.053Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.053Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 6.5,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.053Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.053Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 6.5,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.053Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.053Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 6.5,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.053Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.053Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 6.5,
+        "condition": "New",
+        "network": "Orange",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.053Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Orange",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.053Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 6.5,
+        "condition": "New",
+        "network": "Tmobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.053Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tmobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.053Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 6.5,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.053Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.053Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 6.5,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.053Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.053Z"
+      }
+    ]
+  },
+  "phones/oneplus/10-pro": {
+    "brand": "Oneplus",
+    "model": "10 PRO",
+    "storage": "128GB",
+    "slug": "phones-oneplus-10-pro",
+    "source_slug": "oneplus/10-pro",
+    "type": "phone",
+    "offers": [
+      {
+        "merchant": "Vendi",
+        "price": 140,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Vendi",
+        "price": 40,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Vendi",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 140,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 140,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 10,
+        "condition": "Broken",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 140,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 140,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 10,
+        "condition": "Broken",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 140,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 140,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 10,
+        "condition": "Broken",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 140,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 140,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 10,
+        "condition": "Broken",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 140,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 140,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 10,
+        "condition": "Broken",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 140,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 140,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 10,
+        "condition": "Broken",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 140,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 140,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 10,
+        "condition": "Broken",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 114.5,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 114.5,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 114.5,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 114.5,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 114.5,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 114.5,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 114.5,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 114.5,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:07.814Z"
+      }
+    ]
+  },
+  "phones/oneplus/11-5g": {
+    "brand": "Oneplus",
+    "model": "11 5G",
+    "storage": "128GB",
+    "slug": "phones-oneplus-11-5g",
+    "source_slug": "oneplus/11-5g",
+    "type": "phone",
+    "offers": [
+      {
+        "merchant": "Vendi",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 200,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 200,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 30,
+        "condition": "Broken",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 200,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 200,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 30,
+        "condition": "Broken",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 200,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 200,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 30,
+        "condition": "Broken",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 200,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 200,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 30,
+        "condition": "Broken",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 200,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 200,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 30,
+        "condition": "Broken",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 200,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 200,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 200,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 30,
+        "condition": "Broken",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 200,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 30,
+        "condition": "Broken",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Vendi",
+        "price": 180,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      },
+      {
+        "merchant": "Vendi",
+        "price": 110,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:08.472Z"
+      }
+    ]
+  },
+  "phones/oneplus/5t": {
+    "brand": "Oneplus",
+    "model": "5T",
+    "storage": "64GB",
+    "slug": "phones-oneplus-5t",
+    "source_slug": "oneplus/5t",
+    "type": "phone",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 19,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.152Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.152Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 11.5,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.152Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.152Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 11.5,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.152Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.152Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 11.5,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.152Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.152Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 11.5,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.152Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.152Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 11.5,
+        "condition": "New",
+        "network": "Orange",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.152Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Orange",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.152Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 11.5,
+        "condition": "New",
+        "network": "Tmobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.152Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tmobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.152Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 11.5,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.152Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.152Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 11.5,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.152Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.152Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 11.5,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.152Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.152Z"
+      }
+    ]
+  },
+  "phones/oneplus/6t": {
+    "brand": "Oneplus",
+    "model": "6T",
+    "storage": "128GB",
+    "slug": "phones-oneplus-6t",
+    "source_slug": "oneplus/6t",
+    "type": "phone",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 23,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.752Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.752Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 15.5,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.752Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.752Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 15.5,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.752Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.752Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 15.5,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.752Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.752Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 15.5,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.752Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.752Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 15.5,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.752Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.752Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 15.5,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.752Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.752Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 15.5,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.752Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:09.752Z"
+      }
+    ]
+  },
+  "phones/oneplus/7-pro": {
+    "brand": "Oneplus",
+    "model": "7 PRO",
+    "storage": "128GB",
+    "slug": "phones-oneplus-7-pro",
+    "source_slug": "oneplus/7-pro",
+    "type": "phone",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 52.5,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:10.406Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:10.406Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 48,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:10.406Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:10.406Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 48,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:10.406Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:10.406Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 48,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:10.406Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:10.406Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 48,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:10.406Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:10.406Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 48,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:10.406Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:10.406Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 48,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:10.406Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:10.406Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 48,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:10.406Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:10.406Z"
+      }
+    ]
+  },
+  "phones/oneplus/7t": {
+    "brand": "Oneplus",
+    "model": "7T",
+    "storage": "128GB",
+    "slug": "phones-oneplus-7t",
+    "source_slug": "oneplus/7t",
+    "type": "phone",
+    "offers": [
+      {
+        "merchant": "Handtec",
+        "price": 60,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 2,
+        "condition": "Broken",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 60,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 2,
+        "condition": "Broken",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 60,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 2,
+        "condition": "Broken",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 60,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 2,
+        "condition": "Broken",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 60,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 2,
+        "condition": "Broken",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 60,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 2,
+        "condition": "Broken",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 60,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 2,
+        "condition": "Broken",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 51,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 30.5,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 30.5,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 30.5,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 30.5,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 30.5,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 30.5,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 30.5,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.023Z"
+      }
+    ]
+  },
+  "phones/oneplus/7t-pro": {
+    "brand": "Oneplus",
+    "model": "7T PRO",
+    "storage": "128GB",
+    "slug": "phones-oneplus-7t-pro",
+    "source_slug": "oneplus/7t-pro",
+    "type": "phone",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 55.5,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.598Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.598Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 42.5,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.598Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.598Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 42.5,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.598Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.598Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 42.5,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.598Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.598Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 42.5,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.598Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.598Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 42.5,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.598Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.598Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 42.5,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.598Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.598Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 42.5,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.598Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:11.598Z"
+      }
+    ]
+  },
+  "phones/oneplus/8": {
+    "brand": "Oneplus",
+    "model": "8 128GB",
+    "storage": "128GB",
+    "slug": "phones-oneplus-8",
+    "source_slug": "oneplus/8",
+    "type": "phone",
+    "offers": [
+      {
+        "merchant": "Handtec",
+        "price": 65,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 65,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 65,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 65,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 65,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 65,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 65,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 65,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 65,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 65,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 65,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 65,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 65,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 65,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 58,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 58,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 58,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 58,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 58,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 58,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 58,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 58,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.258Z"
+      }
+    ]
+  },
+  "phones/oneplus/8-pro": {
+    "brand": "Oneplus",
+    "model": "8 PRO 128GB",
+    "storage": "128GB",
+    "slug": "phones-oneplus-8-pro",
+    "source_slug": "oneplus/8-pro",
+    "type": "phone",
+    "offers": [
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 79.5,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 79.5,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 79.5,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 79.5,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 79.5,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 79.5,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 79.5,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 79.5,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:12.909Z"
+      }
+    ]
+  },
+  "phones/oneplus/9": {
+    "brand": "Oneplus",
+    "model": "9 256GB",
+    "storage": "256GB",
+    "slug": "phones-oneplus-9",
+    "source_slug": "oneplus/9",
+    "type": "phone",
+    "offers": [
+      {
+        "merchant": "Handtec",
+        "price": 85,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:13.551Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 85,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:13.551Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:13.551Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 85,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:13.551Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 85,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:13.551Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:13.551Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 85,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:13.551Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 85,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:13.551Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:13.551Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 85,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:13.551Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 85,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:13.551Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:13.551Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 85,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:13.551Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 85,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:13.551Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:13.551Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 85,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:13.551Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 85,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:13.551Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:13.551Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 85,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:13.551Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 85,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:13.551Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:13.551Z"
+      }
+    ]
+  },
+  "phones/oneplus/9-pro": {
+    "brand": "Oneplus",
+    "model": "9 PRO 256GB",
+    "storage": "256GB",
+    "slug": "phones-oneplus-9-pro",
+    "source_slug": "oneplus/9-pro",
+    "type": "phone",
+    "offers": [
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 90,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 100,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 100,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 91.5,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 91.5,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 91.5,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 91.5,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 91.5,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 91.5,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 91.5,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 91.5,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.225Z"
+      }
+    ]
+  },
+  "phones/oneplus/nord": {
+    "brand": "Oneplus",
+    "model": "NORD 128GB",
+    "storage": "128GB",
+    "slug": "phones-oneplus-nord",
+    "source_slug": "oneplus/nord",
+    "type": "phone",
+    "offers": [
+      {
+        "merchant": "Handtec",
+        "price": 20,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.888Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 20,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.888Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 2,
+        "condition": "Broken",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.888Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 20,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.888Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 20,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.888Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 2,
+        "condition": "Broken",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.888Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 20,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.888Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 20,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 2,
+        "condition": "Broken",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 20,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 20,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 2,
+        "condition": "Broken",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 20,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 20,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 2,
+        "condition": "Broken",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 20,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 20,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 2,
+        "condition": "Broken",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 20,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 20,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 2,
+        "condition": "Broken",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 27,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 27,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 27,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 27,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 27,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 27,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 27,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 27,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:14.889Z"
+      }
+    ]
+  },
+  "phones/oneplus/nord-2-5g": {
+    "brand": "Oneplus",
+    "model": "NORD 2 5G",
+    "storage": "128GB",
+    "slug": "phones-oneplus-nord-2-5g",
+    "source_slug": "oneplus/nord-2-5g",
+    "type": "phone",
+    "offers": [
+      {
+        "merchant": "Vendi",
+        "price": 5,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Vendi",
+        "price": 5,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Vendi",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 50,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      },
+      {
+        "merchant": "Handtec",
+        "price": 5,
+        "condition": "Broken",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:15.528Z"
+      }
+    ]
+  },
+  "phones/oneplus/nord-ce2-5g": {
+    "brand": "Oneplus",
+    "model": "NORD CE2 5G",
+    "storage": "128GB",
+    "slug": "phones-oneplus-nord-ce2-5g",
+    "source_slug": "oneplus/nord-ce2-5g",
+    "type": "phone",
+    "offers": [
+      {
+        "merchant": "GadgetReclaim",
+        "price": 27,
+        "condition": "New",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:16.123Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Unlocked",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:16.123Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 27,
+        "condition": "New",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:16.123Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "O2",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:16.123Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 27,
+        "condition": "New",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:16.123Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Vodafone",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:16.123Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 27,
+        "condition": "New",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:16.123Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "EE",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:16.123Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 27,
+        "condition": "New",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:16.123Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Three",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:16.123Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 27,
+        "condition": "New",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:16.123Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Virgin",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:16.123Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 27,
+        "condition": "New",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:16.123Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Tesco Mobile",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:16.123Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 27,
+        "condition": "New",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:16.123Z"
+      },
+      {
+        "merchant": "GadgetReclaim",
+        "price": 0.1,
+        "condition": "Working",
+        "network": "Other",
+        "source": "sellmymobile",
+        "timestamp": "2025-06-04T15:42:16.123Z"
+      }
+    ]
+  }
+}
