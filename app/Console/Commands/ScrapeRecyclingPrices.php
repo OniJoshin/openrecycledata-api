@@ -57,15 +57,19 @@ class ScrapeRecyclingPrices extends Command
                     }
 
                     foreach ($group['offers'] ?? [] as $offer) {
-                        Offer::create([
-                            'device_id' => $device->id,
-                            'merchant' => $offer['merchant'],
-                            'price' => $offer['price'],
-                            'condition' => $offer['condition'],
-                            'network' => $offer['network'],
-                            'source' => $sourceName,
-                            'timestamp' => isset($offer['timestamp']) ? Carbon::parse($offer['timestamp']) : now(),
-                        ]);
+                        Offer::updateOrCreate(
+                            [
+                                'device_id' => $device->id,
+                                'merchant' => $offer['merchant'],
+                                'price' => $offer['price'],
+                                'condition' => $offer['condition'],
+                                'network' => $offer['network'],
+                            ],
+                            [
+                                'source' => $sourceName,
+                                'timestamp' => isset($offer['timestamp']) ? Carbon::parse($offer['timestamp']) : now(),
+                            ]
+                        );
                     }
                 }
             }
