@@ -7,6 +7,7 @@ use App\Models\Device;
 use App\Models\Offer;
 use Illuminate\Support\Str;
 use Illuminate\Support\Facades\File;
+use Carbon\Carbon;
 
 class ScrapeRecyclingPrices extends Command
 {
@@ -63,7 +64,7 @@ class ScrapeRecyclingPrices extends Command
                             'condition' => $offer['condition'],
                             'network' => $offer['network'],
                             'source' => $sourceName,
-                            'timestamp' => now(),
+                            'timestamp' => isset($offer['timestamp']) ? Carbon::parse($offer['timestamp']) : now(),
                         ]);
                     }
                 }
