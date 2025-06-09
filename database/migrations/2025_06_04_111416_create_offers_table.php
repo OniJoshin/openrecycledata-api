@@ -18,7 +18,7 @@ return new class extends Migration
             $table->decimal('price', 8, 2);
             $table->string('condition');
             $table->string('network')->nullable(); // e.g., Unlocked, EE, Vodafone
-            $table->string('source'); // e.g., Unlocked, EE, Vodafone
+            $table->string('source'); // e.g., sellmymobile
             $table->timestamp('timestamp'); // when the offer was scraped
             $table->timestamps();
         });
