@@ -15,7 +15,7 @@
                 </div>
             </div>
             <div class="text-center">
-                <img src="https://via.placeholder.com/800x400?text=Screenshot" alt="App screenshot" class="mx-auto rounded shadow">
+                <img src="{{ asset('storage/ss.png') }}" alt="App screenshot" class="mx-auto rounded shadow">
             </div>
         </div>
     </header>
